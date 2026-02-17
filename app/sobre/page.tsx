@@ -25,6 +25,11 @@ export default function contato() {
             home
           </Link>
         </div>
+        <div className="w-20 p-2 bg-white rounded-md shadow-md text-center">
+          <Link href="/saudacao" className="text-gray-900">
+            saudacao
+          </Link>
+        </div>
       </div>
     </div>
   );
