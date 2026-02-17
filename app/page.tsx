@@ -26,6 +26,11 @@ export default function home(){
             home
           </Link>
         </div>
+        <div className="w-20 p-2 bg-white rounded-md shadow-md text-center">
+          <Link href="/contador" className="text-gray-900">
+            contador
+          </Link>
+        </div>
       </div>
     </div>
   )
